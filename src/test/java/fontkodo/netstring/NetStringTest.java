@@ -26,7 +26,7 @@ public class NetStringTest {
 
 	static EncodingPair[] myTable = { new EncodingPair("", "0:,"),
 			new EncodingPair("ralph", "5:ralph,"),
-			new EncodingPair("Sierpiński", "10:Sierpiński,"),
+			new EncodingPair("Sierpiński", "11:Sierpiński,"),
 			new EncodingPair("汉字", "6:汉字,"),
 			new EncodingPair(":,", "2::,,"),
 			new EncodingPair("汉字", "2:汉字,", false),
