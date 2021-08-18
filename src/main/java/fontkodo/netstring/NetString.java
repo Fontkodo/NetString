@@ -4,7 +4,8 @@ import java.io.*;
 
 /**
  * 
- * The NetString class provides encoding and decoding of Netstrings, as described in http://cr.yp.to/proto/netstrings.txt.
+ * The NetString class provides encoding and decoding of Netstrings,
+ * as described in http://cr.yp.to/proto/netstrings.txt.
  * 
  * <P>
  * For example, "Alex Griffin" is encoded as "12:Alex Griffin,".
