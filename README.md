@@ -1,2 +1,2 @@
 # NetString
-[![Build Status](https://travis-ci.com/Fontkodo/NetStringFix.svg?branch=main)](https://travis-ci.com/github/Fontkodo/NetStringFix)
+[![Build Status](https://travis-ci.com/Fontkodo/NetString.svg?branch=main)](https://travis-ci.com/github/Fontkodo/NetString)
